@@ -34,8 +34,8 @@ plt.rcParams['xtick.labelsize'] = 12
 plt.rcParams['ytick.labelsize'] = 12
 
 # Load Data
-train = pd.read_csv("C:/Users/helfo/OneDrive/Documents/GitHub/Network intrusion/Dataset/Train_data.csv")
-test = pd.read_csv("C:/Users/helfo/OneDrive/Documents/GitHub/Network intrusion/Dataset/Test_data.csv")
+train = pd.read_csv("Dataset/Train_data.csv")
+test = pd.read_csv("Dataset/Test_data.csv")
 
 # Initial Data Inspection
 print(f"Training data has {train.shape[0]} rows & {train.shape[1]} columns")

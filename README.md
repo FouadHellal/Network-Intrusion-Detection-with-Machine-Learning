@@ -66,7 +66,7 @@ To run the project, follow these steps:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/network-intrusion-detection.git
+git clone https://github.com/FouadHellal/network-intrusion-detection.git
 ```
 ## Navigate to the project directory:
 
