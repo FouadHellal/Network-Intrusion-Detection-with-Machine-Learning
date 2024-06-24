@@ -38,18 +38,18 @@ Both files are located in the `Dataset` directory.
 ## Requirements
 
 The project requires the following Python libraries:
+- [![numpy](https://img.shields.io/badge/numpy-2.0-blue)](https://numpy.org/)
+- [![pandas](https://img.shields.io/badge/pandas-2.2.2-black)](https://pandas.pydata.org/)
+- [![seaborn](https://img.shields.io/badge/seaborn-0.13.2-black)](https://github.com/mwaskom/seaborn.git)
+- [![matplotlib](https://img.shields.io/badge/matplotlib-3.7.1-blue)](https://matplotlib.org/)
+- [![warnings](https://img.shields.io/badge/warnings-built--in-red)](https://docs.python.org/3/library/warnings.html)
+- [![optuna](https://img.shields.io/badge/optuna-3.3.0-blueviolet)](https://optuna.org/)
+- [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange)](https://scikit-learn.org/)
+- [![lightgbm](https://img.shields.io/badge/lightgbm-4.0.0-green)](https://lightgbm.readthedocs.io/)
+- [![catboost](https://img.shields.io/badge/catboost-1.1.2-yellow)](https://catboost.ai/)
+- [![xgboost](https://img.shields.io/badge/xgboost-1.7.6-brightgreen)](https://xgboost.readthedocs.io/)
+- [![tabulate](https://img.shields.io/badge/tabulate-0.9.0-lightgrey)](https://github.com/astanin/python-tabulate)
 
-- numpy
-- pandas
-- seaborn
-- matplotlib
-- warnings
-- optuna
-- scikit-learn
-- lightgbm
-- catboost
-- xgboost
-- tabulate
 
 ## Installation
 
